@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Martínez</h1>
-<h3 align="center">A passionate frontend developer from Chile</h3>
+<h3 align="center">A passionate FULL STACK MERN DEVELOPER from Chile</h3>
 
 - 💬 Ask me about **HTML, CSS, SASS, TAILWINDCSS, JAVASCRIPT**
 
