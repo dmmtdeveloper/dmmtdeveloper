@@ -1,4 +1,4 @@
-#  David Martínez
+# 👋 David Martínez
 
 **`Full Stack Developer`**+
 
@@ -7,7 +7,7 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Lenguajes y Herramientas
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -15,6 +15,7 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
@@ -22,8 +23,8 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
 #
 
 <details>
- <summary><h3>👨‍💻 David Coding Journey</h3></summary>
-   Mi trayectoria incluye la formación en Dibujo Técnico y una larga experiencia como Dibujante Proyectista en proyectos de arquitectura e ingeniería. Durante el transcurso del año 2022, mi interés se ha volcado hacia el Diseño UX/UI y el 2023 hacia el Desarrollo Frontend.
+ <summary><h3>👨‍💻 David Mi viaje por el código</h3></summary>
+   Durante el transcurso del año 2022, mi interés se ha volcado hacia el Diseño UX/UI y el 2023 hacia el Desarrollo Frontend, a finales del año 2023 participe en un Bootcamp FULL STACK MERN JS.
 
 [LinkedIn]: https://www.linkedin.com/in/dmmtapia/
 
