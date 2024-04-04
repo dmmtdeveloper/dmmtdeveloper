@@ -2,11 +2,22 @@
 
 **`Full Stack Developer`**+
 
-Como desarrollador independiente y full stack, mi pasión radica en el diseño web y la resolución de problemas. Me encanta combinar mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales. Mantenerme al día con las últimas tecnologías es fundamental para mí, ya que me permite ofrecer soluciones innovadoras y eficientes a mis clientes. Estoy constantemente buscando formas de mejorar mis habilidades y adaptarme a los rápidos cambios en el mundo del desarrollo web.  
+Como desarrollador independiente y full stack, mi pasión radica en el diseño web y la resolución de problemas. Me encanta combinar mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales. Mantenerme al día con las últimas tecnologías es fundamental para mí, ya que me permite ofrecer soluciones innovadoras y eficientes a mis clientes. Estoy constantemente buscando formas de mejorar mis habilidades y adaptarme a los rápidos cambios en el mundo del desarrollo web.
 
-- [LinkedIn]: https://www.linkedin.com/in/dmmtapia/
+<a href= "https://www.linkedin.com/in/dmmtapia/">
+<svg  
+xmlns="http://www.w3.org/2000/svg"  
+width="24"  
+height="24"  
+viewBox="0 0 24 24"  
+fill="none"  
+stroke="currentColor"  
+stroke-width="2"  
+stroke-linecap="round"  
+stroke-linejoin="round"  
+class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4m0 2a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-12a2 2 0 0 1 -2 -2z" /><path d="M8 11l0 5" /><path d="M8 8l0 .01" /><path d="M12 16l0 -5" /><path d="M16 16v-3a2 2 0 0 0 -4 0" /></svg>
 
----
+## </a>
 
 ### 🧰 Lenguajes y Herramientas
 
@@ -27,5 +38,3 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
   <h3>👨‍💻 David Mi viaje por el código</h3>
  </summary>
    Durante el año 2022, mi atención se enfocó en el Diseño UX/UI. En en el año 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
-
-
