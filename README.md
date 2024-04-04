@@ -4,6 +4,7 @@
 
 Como desarrollador independiente y full stack, mi pasión radica en el diseño web y la resolución de problemas. Me encanta combinar mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales. Mantenerme al día con las últimas tecnologías es fundamental para mí, ya que me permite ofrecer soluciones innovadoras y eficientes a mis clientes. Estoy constantemente buscando formas de mejorar mis habilidades y adaptarme a los rápidos cambios en el mundo del desarrollo web.  
 
+- [LinkedIn]: https://www.linkedin.com/in/dmmtapia/
 
 ---
 
@@ -27,5 +28,4 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
  </summary>
    Durante el año 2022, mi atención se enfocó en el Diseño UX/UI. En en el año 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
 
-[LinkedIn]: https://www.linkedin.com/in/dmmtapia/
 
