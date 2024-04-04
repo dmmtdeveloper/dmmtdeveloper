@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm David Martínez</h1>
+<h1 align="left">Hi 👋, I'm David Martínezz</h1>
 <h3 align="left">A passionate FULL STACK MERN DEVELOPER from Chile</h3>
 
 - 💬 Ask me about **HTML, CSS, SASS, TAILWINDCSS, JAVASCRIPT**
