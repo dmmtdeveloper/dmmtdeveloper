@@ -1,4 +1,11 @@
-<h1 align="left">Hi 👋, I'm David Martínez</h1>
+# 👋 David Martínez
+
+** `Full stack developer` **
+
+
+
+
+<!-- <h1 align="left">Hi 👋, I'm David Martínez</h1>
 <h3 align="left"></h3>
 
 - 💬 Ask me about **HTML, CSS, SASS, TAILWINDCSS, JAVASCRIPT**
@@ -37,4 +44,4 @@
 
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 
-</p>
+</p> -->
