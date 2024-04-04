@@ -35,6 +35,6 @@ class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path s
 
 <details>
  <summary>
-  <h3>👨‍💻 David Mi viaje por el código</h3>
+  <h3>👨‍💻 Mi viaje por el código</h3>
  </summary>
    Durante el año 2022, mi atención se enfocó en el Diseño UX/UI. En en el año 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
