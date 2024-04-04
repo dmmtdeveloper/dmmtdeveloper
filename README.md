@@ -25,7 +25,7 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
  <summary>
   <h3>👨‍💻 David Mi viaje por el código</h3>
  </summary>
-   Durante el transcurso del año 2022, mi interés se ha volcado hacia el Diseño UX/UI y el 2023 hacia el Desarrollo Frontend, a finales del año 2023 participe en un Bootcamp FULL STACK MERN JS.
+   Durante el año 2022, mi atención se enfocó en el Diseño UX/UI. EN en el 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
 
 [LinkedIn]: https://www.linkedin.com/in/dmmtapia/
 
