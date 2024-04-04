@@ -15,7 +15,7 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nextjs-original.svg" />
+<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
@@ -23,7 +23,9 @@ Como desarrollador independiente y full stack, mi pasión radica en el diseño w
 #
 
 <details>
- <summary><h3>👨‍💻 David Mi viaje por el código</h3></summary>
+ <summary>
+  <h3>👨‍💻 David Mi viaje por el código</h3>
+ </summary>
    Durante el transcurso del año 2022, mi interés se ha volcado hacia el Diseño UX/UI y el 2023 hacia el Desarrollo Frontend, a finales del año 2023 participe en un Bootcamp FULL STACK MERN JS.
 
 [LinkedIn]: https://www.linkedin.com/in/dmmtapia/
