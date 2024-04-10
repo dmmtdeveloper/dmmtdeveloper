@@ -2,9 +2,9 @@
 
 **`Full Stack Developer`**
 
-Como desarrollador independiente, mi enfoque radica en el diseño web y la resolución de problemas tanto de frontend como backend.  combino mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales. 
+Como desarrollador independiente, mi enfoque radica en el diseño web y la resolución de problemas tanto de Frontend como Backend. Combino mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales.
 
-Mantenerme al día con las últimas tecnologías me es fundamental ya que me permite ofrecer soluciones innovadoras y eficientes. Estoy constantemente buscando formas de mejorar mis habilidades en programación y adaptarme a los rápidos cambios en el mundo del desarrollo web.
+Mantenerme al día con las últimas tecnologías me es fundamental, ya que me permite ofrecer soluciones innovadoras y eficientes. Estoy constantemente buscando formas de mejorar mis habilidades en programación y adaptarme a los rápidos cambios en el mundo del desarrollo web.
 
 <a href= "https://www.linkedin.com/in/dmmtapia/">
 <svg  
