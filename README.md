@@ -41,4 +41,10 @@ class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path s
  <summary>
   <h3>👨‍💻 Mi viaje por el código</h3>
  </summary>
-Titulado en Dibujo de Proyectos de Arquitectura e Ingeniería, trabaje durante años en el rubro de la consultoría e Ingeniería donde mi rol consistía en la ejecución de los planos para el area de Ingeniería. Poseo experiencia colaborativa, trabajando en equipos donde interactué con dibujantes e ingenieros para la ejecución exitosa de proyectos.  El año 2022, me interesé por el diseño UX/UI y gracias a esto conocí el mundo del desarrollo web y la programación, en el transcurso del año 2023, dirigí mi atención hacia el Desarrollo Frontend realizando una seria de cursos enfocados principalmente en HTML CSS Y JS.  En el año 2023 participé en un Bootcamp FULL STACK MERN JS, donde adquirí las habilidades necesarias para desarrollar proyectos completos que abarcan tanto el frontend como el backend.
+Titulado en Dibujo de Proyectos de Arquitectura e Ingeniería, trabaje durante años en el rubro de la consultoría e Ingeniería donde mi rol consistía en la ejecución de los planos para el area de Ingeniería.
+
+Poseo experiencia colaborativa, trabajando en equipos donde interactué con dibujantes e ingenieros para la ejecución exitosa de proyectos.
+
+El año 2022, me interesé por el diseño UX/UI y gracias a esto conocí el mundo del desarrollo web y la programación, en el transcurso del año 2023, dirigí mi atención hacia el Desarrollo Frontend realizando una seria de cursos enfocados principalmente en HTML CSS Y JS.
+
+En el año 2023 participé en un Bootcamp FULL STACK MERN JS, donde adquirí las habilidades necesarias para desarrollar proyectos completos que abarcan tanto el frontend como el backend.
