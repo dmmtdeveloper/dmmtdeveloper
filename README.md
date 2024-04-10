@@ -24,7 +24,7 @@ Mantenerme al día con las últimas tecnologías me es fundamental, ya que me pe
 
 <details>
  <summary>
-  <h3>👨‍💻 Mi viaje por el código</h3>
+  <h3>👨‍💻 Acerca de mí y mi viaje por el código</h3>
  </summary>
 
 Titulado en Dibujo de Proyectos de Arquitectura e Ingeniería, trabaje durante años en el rubro de la consultoría e Ingeniería donde mi rol consistía en la ejecución de los planos para el area de Ingeniería. Poseo experiencia colaborativa, trabajando en equipos donde interactué con dibujantes e ingenieros para la ejecución exitosa de proyectos.
