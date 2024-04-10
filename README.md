@@ -2,9 +2,9 @@
 
 **`Full Stack Developer`**
 
-Como desarrollador independiente, mi enfoque radica en el diseño web y la resolución de problemas tanto de frontend como backend.  combino mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales. 
+Como desarrollador independiente, mi enfoque radica en el diseño web y la resolución de problemas tanto de Frontend como Backend. Combino mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales.
 
-Mantenerme al día con las últimas tecnologías es fundamental ya que me permite ofrecer soluciones innovadoras y eficientes. Estoy constantemente buscando formas de mejorar mis habilidades en programación y adaptarme a los rápidos cambios en el mundo del desarrollo web.
+Mantenerme al día con las últimas tecnologías me es fundamental, ya que me permite ofrecer soluciones innovadoras y eficientes. Estoy constantemente buscando formas de mejorar mis habilidades en programación y adaptarme a los rápidos cambios en el mundo del desarrollo web.
 
 <a href= "https://www.linkedin.com/in/dmmtapia/">
 <svg  
@@ -41,4 +41,4 @@ class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path s
  <summary>
   <h3>👨‍💻 Mi viaje por el código</h3>
  </summary>
-   Durante el año 2022, mi atención se enfocó en el Diseño UX/UI. En en el año 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
+   Titulado en Dibujo de proyectos de Arquitectura e Ingeniria. durante el año 2022, mi atención se enfocó en el Diseño UX/UI. En en el año 2023, mi enfoque se dirigió hacia el Desarrollo Frontend. Participé en un Bootcamp FULL STACK MERN JS, donde adquirí los conocimientos necesarios para desarrollar proyectos integrales que abarcan tanto el frontend como el backend.
