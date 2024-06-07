@@ -1,10 +1,12 @@
 # 👋 David Martínez
 
 **`Full Stack Developer`**
+Titulado en Dibujo de Proyectos de Arquitectura e Ingeniería, trabaje durante años en el rubro de la consultoría e Ingeniería donde mi rol consistía en la ejecución de los planos para el area de Ingeniería. Poseo experiencia colaborativa, trabajando en equipos donde interactué con dibujantes e ingenieros para la ejecución exitosa de proyectos.
 
-Como desarrollador independiente, mi enfoque radica en el diseño web y la resolución de problemas tanto de Frontend como Backend. Combino mi habilidad técnica con mi creatividad para crear experiencias web atractivas y funcionales.
+El año 2022, me interesé por el diseño UX/UI y gracias a esto conocí el mundo del desarrollo web y la programación, en el transcurso del año 2023, dirigí mi atención hacia el Desarrollo Frontend realizando una seria de cursos enfocados principalmente en HTML CSS Y JS.
 
-Mantenerme al día con las últimas tecnologías me es fundamental, ya que me permite ofrecer soluciones innovadoras y eficientes. Estoy constantemente buscando formas de mejorar mis habilidades en programación y adaptarme a los rápidos cambios en el mundo del desarrollo web.
+En el año 2023 participé en un Bootcamp FULL STACK MERN JS, donde adquirí las habilidades necesarias para desarrollar proyectos completos que abarcan tanto el frontend como el backend.
+
 
 ### 🧰 Lenguajes y Herramientas
 
@@ -22,13 +24,4 @@ Mantenerme al día con las últimas tecnologías me es fundamental, ya que me pe
 
 #
 
-<details>
- <summary>
-  <h3>👨‍💻 Acerca de mí y mi viaje por el código</h3>
- </summary>
 
-Titulado en Dibujo de Proyectos de Arquitectura e Ingeniería, trabaje durante años en el rubro de la consultoría e Ingeniería donde mi rol consistía en la ejecución de los planos para el area de Ingeniería. Poseo experiencia colaborativa, trabajando en equipos donde interactué con dibujantes e ingenieros para la ejecución exitosa de proyectos.
-
-El año 2022, me interesé por el diseño UX/UI y gracias a esto conocí el mundo del desarrollo web y la programación, en el transcurso del año 2023, dirigí mi atención hacia el Desarrollo Frontend realizando una seria de cursos enfocados principalmente en HTML CSS Y JS.
-
-En el año 2023 participé en un Bootcamp FULL STACK MERN JS, donde adquirí las habilidades necesarias para desarrollar proyectos completos que abarcan tanto el frontend como el backend.
