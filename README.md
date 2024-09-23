@@ -2,11 +2,7 @@
 
 **`Full Stack Developer`**
 
-Soy un desarrollador frontend full stack con más de un año de experiencia, apasionado por crear experiencias de usuario excepcionales a través de interfaces interactivas y eficientes. Mi principal enfoque ha sido el desarrollo con React, donde he perfeccionado mis habilidades en la creación de componentes reutilizables y optimización del rendimiento.
-
-En 2024, asumí un desafío como freelancer, desarrollando una página web completa en Next.js para un cliente, donde apliqué las mejores prácticas en estructuración de componentes, manejo de estado y mejora de la performance, asegurando una experiencia fluida y eficiente para los usuarios finales.
-
-Además de mis habilidades en desarrollo, tengo experiencia en diseño UX/UI utilizando Figma, lo que me permite trabajar en la intersección entre diseño y tecnología, creando interfaces visualmente atractivas y alineadas con las necesidades del usuario. Mi conocimiento en Tailwind CSS me ha permitido implementar diseños adaptativos y responsivos, garantizando que cada proyecto sea accesible y visualmente coherente en cualquier dispositivo.
+Soy un desarrollador frontend full stack con más de un año de experiencia, apasionado por crear experiencias de usuario excepcionales a través de interfaces interactivas y eficientes. 
 
 Estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional, y aportar valor a través de soluciones innovadoras y centradas en el usuario.
 
