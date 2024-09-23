@@ -2,7 +2,7 @@
 
 **`Full Stack Developer`**
 
-Soy un desarrollador Frontend full stack con más de un año de experiencia, apasionado por crear experiencias de usuario excepcionales a través de interfaces interactivas y eficientes. 
+Soy un desarrollador Frontend Full Stack, apasionado por crear experiencias de usuario excepcionales a través de interfaces interactivas y eficientes. 
 
 Estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional, y aportar valor a través de soluciones innovadoras y centradas en el usuario.
 
