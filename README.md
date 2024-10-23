@@ -2,9 +2,7 @@
 
 **`Full Stack Developer`**
 
-Soy un desarrollador Frontend Full Stack, apasionado por crear experiencias de usuario excepcionales a través de interfaces interactivas y eficientes. 
-
-Estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional, y aportar valor a través de soluciones innovadoras y centradas en el usuario.
+Me adentre en el mundo de la programación de manera autodidacta en el año 2022, desde entonces ha sido un camino de mucho aprendizaje practica y paciencia. Mi interés es crear experiencias de usuario atractivas a través de interfaces dinámicas y eficientes. Estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional en el area IT, y aportar valor a través de soluciones innovadoras y centradas en el usuario.
 
 
 ### 🧰 Lenguajes y Herramientas
