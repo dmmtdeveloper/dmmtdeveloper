@@ -1,24 +1,84 @@
-# 👋 David Martínez
+<div align="center">
 
-**`Full Stack Developer`**
+# 👋 Hola, soy David Martínez
 
-Mi interés es crear experiencias de usuario atractivas a través de interfaces dinámicas y eficientes. Estoy siempre en busca de nuevos desafíos que me permitan seguir creciendo como profesional en el area IT, y aportar valor a través de soluciones innovadoras y centradas en el usuario.
+### Full Stack Developer · Santiago, Chile 🇨🇱
 
+Construyo y modernizo productos digitales de punta a punta,  
+desde la experiencia de usuario hasta el backend y el despliegue.
 
-### 🧰 Lenguajes y Herramientas
+[![Portfolio](https://img.shields.io/badge/Portfolio-deivid.space-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deivid.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmmtapia/)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dmmtapia.ux@gmail.com)
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="sass" width="30px" style="padding-right:10px;" src="src/sass.svg" />
-<img align="left" alt="tailwindcss" width="30px" style="padding-right:10px;" src="src/tailwindcss.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+</div>
 
-#
+---
 
+## Sobre mí
 
+Soy **Full Stack Developer** especializado en construir productos digitales y modernizar aplicaciones empresariales.
+
+He participado en proyectos para organizaciones como **Santander** y **MetLife**, trabajando con interfaces, APIs REST, sistemas existentes y automatización de procesos.
+
+También integro inteligencia artificial en mi flujo de desarrollo para acelerar el análisis técnico, la implementación y la documentación, siempre con **revisión humana, pruebas y control de cambios**.
+
+- 🎯 Desarrollo orientado al producto y a las necesidades del usuario.
+- 🧩 Experiencia desde UX/UI hasta backend y despliegue.
+- 🧪 Interés por la calidad, las pruebas automatizadas y el código mantenible.
+- 🚀 Aprendizaje continuo y mejora constante.
+
+---
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**Canta**](https://canta-by-equipa.vercel.app) | Plataforma para gestionar canciones, repertorios y planificación de equipos musicales. | Next.js, TypeScript, Go, MySQL |
+| [**Cadence**](https://retro-cadence-app.vercel.app/) | Plataforma de retrospectivas colaborativas con comunicación en tiempo real. | Next.js, TypeScript, Go, MySQL, Centrifugo |
+
+➡️ Conocé más sobre mi trabajo en **[deivid.space](https://deivid.space)**.
+
+---
+
+## Tecnologías
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,astro,ts,js,html,css,tailwind&perline=9" alt="Angular, React, Next.js, Astro, TypeScript, JavaScript, HTML, CSS y Tailwind CSS" />
+</p>
+
+### Backend y datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,go,mysql,mongodb,redis&perline=8" alt="Node.js, Express, NestJS, .NET, Go, MySQL, MongoDB y Redis" />
+</p>
+
+### Herramientas y entrega
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode&perline=6" alt="Git, GitHub, Docker, Vercel, Figma y Visual Studio Code" />
+</p>
+
+---
+
+## Actualmente me interesa
+
+- Arquitecturas frontend y full stack mantenibles.
+- Modernización de aplicaciones legacy.
+- Sistemas de diseño y experiencias accesibles.
+- Automatización y desarrollo asistido por IA.
+- Productos digitales con impacto real.
+
+---
+
+<div align="center">
+
+### ¿Construimos algo juntos?
+
+[Portfolio](https://deivid.space) ·
+[LinkedIn](https://www.linkedin.com/in/dmmtapia/) ·
+[Email](mailto:dmmtapia.ux@gmail.com)
+
+</div>
