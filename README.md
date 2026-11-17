@@ -35,7 +35,7 @@ También integro inteligencia artificial en mi flujo de desarrollo para acelerar
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | [**Canta**](https://canta-by-equipa.vercel.app) | Plataforma para gestionar canciones, repertorios y planificación de equipos musicales. | Next.js, TypeScript, Go, MySQL |
-| [**Cadence**](https://retro-cadence-app.vercel.app/) | Plataforma de retrospectivas colaborativas con comunicación en tiempo real. | Next.js, TypeScript, Go, MySQL, Centrifugo |
+| [**EMOJ**](https://emoj.cl) | Reconstrucción del sitio de una consultora chilena de ingeniería a partir de una auditoría de UX, SEO, rendimiento y accesibilidad. Sitio 100 % estático. | Astro, TypeScript, Tailwind CSS |
 
 ➡️ Conocé más sobre mi trabajo en **[deivid.space](https://deivid.space)**.
 
